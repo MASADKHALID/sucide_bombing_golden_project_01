@@ -7,7 +7,7 @@ In this project, I worked with a suicide bombing dataset, and here’s how I tac
 # **Data Cleaning & Preparation:**
   I began by loading the data into Jupyter using Pandas for initial inspection, cleaning, and preprocessing to prepare it for further analysis.
 
-#**SQL Integration:**
+# **SQL Integration:**
   Once the data was cleaned, I established a connection between Jupyter and SQL. The data was then transferred into an existing table in my SQL database.
 
 # **Data Transfer & Chunking:**
