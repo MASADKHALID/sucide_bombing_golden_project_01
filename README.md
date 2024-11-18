@@ -15,7 +15,7 @@ In this project, I worked with a suicide bombing dataset, and here’s how I tac
 
 # **Pipeline Creation:**
   I created an automated pipeline for the seamless flow of data from Jupyter to SQL, ensuring that the data could be easily refreshed and processed in stages. 
-  ![sucide_bombing_golden_project_eda drawio](https://github.com/user-attachments/assets/96e829a5-aa0a-425c-9188-c002de781e29)
+  
 
 
 
@@ -24,6 +24,7 @@ In this project, I worked with a suicide bombing dataset, and here’s how I tac
 
 # **Report:**
   Using Power BI, I created interactive and detailed reports that highlighted key insights from the dataset. These reports provide a comprehensive overview of trends and patterns in the    data.
+  
   ![report](https://github.com/user-attachments/assets/2ad4ed00-008c-432f-93a2-a817853a5a6a)
 
 
