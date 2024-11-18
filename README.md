@@ -1,4 +1,4 @@
-# **🚀Suicide Bombing Golden Project 01 🚀**
+# **🚀Suicide Bombing In Pakistan🚀**
 
 🚀 Excited to share my latest project on data cleaning, SQL integration, and Power BI visualization! 🚀
 
